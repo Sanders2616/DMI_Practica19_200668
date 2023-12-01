@@ -20,12 +20,16 @@ Para asegurar la seguridad y la protección de los datos, se incorpora un middle
 En resumen, esta API REST en Node.js no solo proporciona operaciones CRUD estándar, sino que también integra funcionalidades avanzadas de búsqueda e inserción de datos de jugadores, ofreciendo así una plataforma sólida y versátil para la gestión completa de la información relacionada con los jugadores en un entorno seguro y eficiente. <br>
 Fecha entrega: 16 de Noviembre del 2023 <br> <br>
 
-# Resultado de la Practica 17
+# Resultado de la Practica 19
 
 <div style="display: flex; justify-content:">
- <img align="left" src="img/1.png?raw=true" alt="Imagen 1" width="800";/>
- <img align="left" src="img/2.png?raw=true" alt="Imagen 1" width="800";/>
-
+<img align="left" src="img/1.png?raw=true" alt="Imagen 1" width="800";/>
+<img align="left" src="img/2.png?raw=true" alt="Imagen 1" width="800";/>
+<img align="left" src="img/3.png?raw=true" alt="Imagen 1" width="800";/>
+<img align="left" src="img/4.png?raw=true" alt="Imagen 1" width="800";/>
+<img align="left" src="img/5.png?raw=true" alt="Imagen 1" width="800";/>
+<img align="left" src="img/6.png?raw=true" alt="Imagen 1" width="800";/>
+    
 
 
 
